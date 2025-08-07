@@ -2,8 +2,13 @@
 
 ### 🚀 Desenvolvedor Full Stack
 
-## Experiência
-Apaixonado por tecnologia e aprendizado contínuo, estou em constante evolução na criação de soluções digitais inovadoras. Atualmente cursando **Análise e Desenvolvimento de Sistemas**, tenho experiência prática e teórica em desenvolvimento de aplicações web e mobile, trabalhando com tecnologias modernas e metodologias ágeis.
+### 🔍 Perfil Profissional  
+Apaixonado por tecnologia e aprendizado contínuo, busco sempre evoluir na criação de soluções digitais inovadoras. Tenho uma mentalidade analítica voltada à resolução de problemas, trabalho bem em equipe e estou sempre explorando novas ferramentas e tecnologias para entregar resultados com eficiência e qualidade.
+
+---
+
+### 🌟 Objetivo  
+Busco oportunidades desafiadoras onde possa aplicar minha experiência prática com desenvolvimento Full Stack e ampliar minhas habilidades técnicas, contribuindo para o crescimento de soluções digitais de impacto — seja como freelancer, PJ ou membro de uma equipe de tecnologia.
 
 ---
 
@@ -29,16 +34,16 @@ Apaixonado por tecnologia e aprendizado contínuo, estou em constante evolução
 
 ---
 
-### 🌟 Objetivo  
-Busco oportunidades desafiadoras em ambientes dinâmicos, onde possa aplicar e expandir meus conhecimentos, contribuindo com energia, dedicação e criatividade para alcançar objetivos coletivos.
+### 💼 Experiência Profissional
 
-#### Desenvolvedor Full Stack  
+### Desenvolvedor Full Stack  
 **Freelancer | Florianópolis, SC - Remoto**  
-*Jan/2024 - Presente*  
+*Jan/2024 – Presente*  
 - Desenvolvimento de aplicações web e mobile utilizando **React.js**, **React Native**, **Node.js** e **PostgreSQL**.  
-- Implementação de soluções completas, desde o planejamento até a entrega final.  
-- Configuração de pipelines de CI/CD e gerenciamento de contêineres com **Docker**.  
-- Integração de sistemas e otimização de desempenho para garantir soluções eficientes e escaláveis.  
+- Participação em todas as etapas do projeto: levantamento de requisitos, arquitetura, codificação e entrega.  
+- Implantação de **painéis administrativos** personalizados para clientes, com suporte a atualizações dinâmicas de conteúdo.  
+- Integração de sistemas externos via API, controle de autenticação com JWT e otimização de queries em bancos relacionais.  
+- Configuração de **CI/CD pipelines** e uso de contêineres Docker em servidores VPS para aplicações escaláveis.
 
 ---
 
