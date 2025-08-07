@@ -57,7 +57,7 @@ Aqui estão alguns dos projetos desenvolvidos, com foco em soluções modernas, 
 | **Chaveiro Só Chaves** | Landing page otimizada para **captação de clientes**, destacando os serviços de um **chaveiro 24h** com foco em soluções residenciais e automotivas. | [chaveirosochaves.com](https://www.chaveirosochaves.com) |
 | **Apolluz** | Landing page institucional com objetivo de gerar leads para uma **empresa especializada em transportes e mudanças**, oferecendo serviços personalizados e atendimento em São Paulo. | [apolluz.com.br](https://www.apolluz.com.br) |
 | **Nana Organizer** | Site institucional desenvolvido para apresentar o **portfólio e os serviços de uma personal organizer**, com foco na **demonstração do trabalho e captação de leads**. | [nanaorganizer.com.br](https://www.nanaorganizer.com.br) |
-| **Treine+** | Landing page voltada para **captação de alunos** interessados em treinamentos financeiros online, promovendo uma plataforma com cursos práticos e acessíveis. | [treinemais.com.br](https://www.treinemais.com.br) |
+| **Treine+** | Landing page voltada para captação de alunos interessados em treinamentos esportivos como corrida, ciclismo e natação, promovendo uma plataforma com cursos práticos e acessíveis. | [treinemais.com.br](https://www.treinemais.com.br) |
 | **Aurelius Seguros** | Site institucional completo com diversas páginas informativas. Possui **painel administrativo personalizado**, **servidor VPS com banco de dados** e funcionalidades para **gerenciar conteúdos dinamicamente**. | [aureliuseguros.com.br](https://aureliuseguros.com.br) |
 
 ---
