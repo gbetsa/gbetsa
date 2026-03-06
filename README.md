@@ -1,63 +1,110 @@
 # Guilherme Betsa
 
-### 🚀 Desenvolvedor Full Stack
+🚀 Full Stack Developer  
+💻 React • Node.js • TypeScript • PostgreSQL • Docker  
 
-### 🔍 Perfil Profissional  
-Apaixonado por tecnologia e aprendizado contínuo, busco sempre evoluir na criação de soluções digitais inovadoras. Tenho uma mentalidade analítica voltada à resolução de problemas, trabalho bem em equipe e estou sempre explorando novas ferramentas e tecnologias para entregar resultados com eficiência e qualidade.
+Desenvolvedor Full Stack com experiência na construção de aplicações web e APIs, atuando em projetos freelance e soluções digitais sob medida. Trabalho desde a definição de requisitos até o deploy da aplicação, focando em performance, organização de código e escalabilidade.
 
----
-
-### 🌟 Objetivo  
-Busco oportunidades desafiadoras onde possa aplicar minha experiência prática com desenvolvimento Full Stack e ampliar minhas habilidades técnicas, contribuindo para o crescimento de soluções digitais de impacto — seja como freelancer, PJ ou membro de uma equipe de tecnologia.
-
----
-
-### 🎓 Formação  
-- **Floripa Mais Tec - FuturoDEV:** Experiência em desafios práticos e colaboração em uma comunidade focada em inovação e aprendizado contínuo.  
-- **Análise e Desenvolvimento de Sistemas:** Cursando e ampliando minha base técnica e analítica para resolução de problemas complexos.  
+📍 Florianópolis, SC — Brasil  
+🌐 Portfólio: https://gbetsa.vercel.app  
+💼 LinkedIn: https://linkedin.com/in/gbetsa
 
 ---
 
-### 💻 Experiência Técnica
-- **Front-End:** HTML, CSS, JavaScript, TypeScript, React.js, React Native  
-- **Back-End:** Node.js, Express.js, Sequelize  
-- **Banco de Dados:** PostgreSQL  
-- **Ferramentas:** Git, Docker, CI/CD  
-- **Metodologias:** Ágil (Scrum, Kanban)
-  
----
+# 🧠 Sobre mim
 
-### 🔍 Perfil Profissional  
-- **Mentalidade Analítica:** Transformo ideias em soluções concretas, abordando cada projeto com foco em eficiência e qualidade.  
-- **Trabalho em Equipe:** Colaboração é minha prioridade, buscando o sucesso coletivo em todos os projetos.  
-- **Inovação e Aprendizado:** Sempre em busca de novas tecnologias e práticas para entregar as melhores soluções.  
+Sou desenvolvedor com foco em **JavaScript/TypeScript full stack**, criando aplicações modernas com **React no frontend** e **Node.js no backend**.
 
----
+Tenho experiência desenvolvendo:
 
-### 💼 Experiência Profissional
+- Aplicações web completas
+- APIs REST
+- Painéis administrativos
+- Landing pages de alta conversão
+- Integrações entre sistemas
 
-### Desenvolvedor Full Stack  
-**Freelancer | Florianópolis, SC - Remoto**  
-*Jan/2024 – Presente*  
-- Desenvolvimento de aplicações web e mobile utilizando **React.js**, **React Native**, **Node.js** e **PostgreSQL**.  
-- Participação em todas as etapas do projeto: levantamento de requisitos, arquitetura, codificação e entrega.  
-- Implantação de **painéis administrativos** personalizados para clientes, com suporte a atualizações dinâmicas de conteúdo.  
-- Integração de sistemas externos via API, controle de autenticação com JWT e otimização de queries em bancos relacionais.  
-- Configuração de **CI/CD pipelines** e uso de contêineres Docker em servidores VPS para aplicações escaláveis.
+Também atuo em todas as etapas do projeto:
+
+• Levantamento de requisitos  
+• Arquitetura da aplicação  
+• Desenvolvimento frontend e backend  
+• Modelagem de banco de dados  
+• Deploy e manutenção
 
 ---
 
-### 📁 Projetos Entregues
+# ⚙️ Tecnologias
 
-Aqui estão alguns dos projetos desenvolvidos, com foco em soluções modernas, performance e objetivos comerciais claros:
+### Frontend
+- React
+- React Native
+- JavaScript
+- TypeScript
+- HTML
+- CSS
 
-| Projeto | Descrição | Link |
-|--------|-----------|------|
-| **WebNutri Solution** | Landing page voltada para **captação de leads** de profissionais da saúde, promovendo uma **plataforma de gestão nutricional hospitalar** com foco em eficiência e inovação. | [webnutrisolution.com.br](https://webnutrisolution.com.br) |
-| **Chaveiro Só Chaves** | Landing page otimizada para **captação de clientes**, destacando os serviços de um **chaveiro 24h** com foco em soluções residenciais e automotivas. | [chaveirosochaves.com](https://www.chaveirosochaves.com) |
-| **Apolluz** | Landing page institucional com objetivo de gerar leads para uma **empresa especializada em transportes e mudanças**, oferecendo serviços personalizados e atendimento em São Paulo. | [apolluz.com.br](https://www.apolluz.com.br) |
-| **Nana Organizer** | Site institucional desenvolvido para apresentar o **portfólio e os serviços de uma personal organizer**, com foco na **demonstração do trabalho e captação de leads**. | [nanaorganizer.com.br](https://www.nanaorganizer.com.br) |
-| **Treine+** | Landing page voltada para captação de alunos interessados em treinamentos esportivos como corrida, ciclismo e natação, promovendo uma plataforma com cursos práticos e acessíveis. | [treinemais.com.br](https://www.treinemais.com.br) |
-| **Aurelius Seguros** | Site institucional completo com diversas páginas informativas. Possui **painel administrativo personalizado**, **servidor VPS com banco de dados** e funcionalidades para **gerenciar conteúdos dinamicamente**. | [aureliuseguros.com.br](https://aureliuseguros.com.br) |
+### Backend
+- Node.js
+- Express.js
+- Sequelize
+
+### Banco de dados
+- PostgreSQL
+
+### DevOps & Ferramentas
+- Git
+- Docker
+- CI/CD
+- Linux / VPS
+
+### Metodologias
+- Scrum
+- Kanban
 
 ---
+
+# 💼 Experiência
+
+### Full Stack Developer  
+Freelancer / Projetos Independentes  
+Jan 2024 — Presente
+
+Desenvolvimento de aplicações web e soluções digitais completas para projetos e clientes.
+
+Principais atividades:
+
+- Desenvolvimento de aplicações web com **React e TypeScript**
+- Criação de **APIs REST com Node.js e Express**
+- Modelagem e integração com **PostgreSQL**
+- Implementação de **autenticação JWT**
+- Desenvolvimento de **painéis administrativos personalizados**
+- Deploy de aplicações em **VPS utilizando Docker**
+- Versionamento e controle de código com **Git**
+
+---
+
+# 🚀 Projetos
+
+Alguns projetos desenvolvidos com foco em performance, usabilidade e objetivos comerciais.
+
+| Projeto | Descrição | Stack | Link |
+|-------|-------|-------|-------|
+| WebNutri Solution | Landing page para captação de leads de plataforma de nutrição hospitalar | React | https://webnutrisolution.com.br |
+| Chaveiro Só Chaves | Site institucional com foco em geração de clientes para chaveiro 24h | React | https://www.chaveirosochaves.com |
+| Apolluz | Site institucional para empresa de transporte e mudanças | React | https://apolluz.com.br |
+| Nana Organizer | Site institucional com apresentação de serviços | React | https://nanaorganizer.com.br |
+| Treine+ | Landing page para captação de alunos de treinamento esportivo | React | https://treinemais.com.br |
+| Aurelius Seguros | Sistema institucional com painel administrativo e gerenciamento de conteúdo | React • Node • PostgreSQL | https://aureliuseguros.com.br |
+
+---
+
+# 📈 Atualmente estudando
+
+- Arquitetura de APIs
+- Escalabilidade de aplicações Node.js
+- Boas práticas de Docker
+- Estruturação de projetos backend
+
+---
+
+⭐ Se gostou dos projetos, fique à vontade para explorar os repositórios!
