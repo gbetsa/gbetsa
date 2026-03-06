@@ -89,9 +89,9 @@ Alguns projetos desenvolvidos com foco em performance, usabilidade e objetivos c
 
 | Projeto | Descrição | Stack | Link |
 |-------|-------|-------|-------|
-| WebNutri Solution | Landing page para captação de leads de plataforma de nutrição hospitalar | React | https://webnutrisolution.com.br |
-| Chaveiro Só Chaves | Site institucional com foco em geração de clientes para chaveiro 24h | React | https://www.chaveirosochaves.com |
-| Apolluz | Site institucional para empresa de transporte e mudanças | React | https://apolluz.com.br |
+| WebNutri Solution | Landing page para captação de leads de plataforma de nutrição hospitalar | HTML | https://webnutrisolution.com.br |
+| Chaveiro Só Chaves | Site institucional com foco em geração de clientes para chaveiro 24h | HTML | https://www.chaveirosochaves.com |
+| Apolluz | Site institucional para empresa de transporte e mudanças | HTML | https://apolluz.com.br |
 | Nana Organizer | Site institucional com apresentação de serviços | React | https://nanaorganizer.com.br |
 | Treine+ | Landing page para captação de alunos de treinamento esportivo | React | https://treinemais.com.br |
 | Aurelius Seguros | Sistema institucional com painel administrativo e gerenciamento de conteúdo | React • Node • PostgreSQL | https://aureliuseguros.com.br |
